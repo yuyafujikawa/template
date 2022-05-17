@@ -1,0 +1,13 @@
+.input {
+  border-radius: 10px;
+
+  top:50%;
+  width: 50%;
+ height: 10%;
+ overflow: auto;
+ margin: auto;
+ position: absolute;
+ top: 0; left: 0; bottom: 0; right: 0;
+
+  border: solid black;
+}
